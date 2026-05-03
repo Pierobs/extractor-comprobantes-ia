@@ -86,4 +86,4 @@ MIT — uso libre para proyectos personales y comerciales.
 
 Desarrollado por **Piero Barrantes** — disponible para proyectos de automatización contable y procesamiento de documentos.
 
-📧 Contacto: [tu correo aquí]
+📧 Contacto: pierobs15@gmail.com
