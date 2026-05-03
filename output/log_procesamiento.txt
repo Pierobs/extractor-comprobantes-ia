@@ -1,0 +1,8 @@
+Procesamiento del 2026-05-03 14:14:17
+Duración: 15.8 segundos
+Total archivos: 2
+Exitosos: 2
+Con error: 0
+
+[OK] Invoice-KYDGHG32-0001.pdf
+[OK] prueba.pdf
